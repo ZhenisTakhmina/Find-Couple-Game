@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  Find Couple
 //
-//  Created by Madik on 11.01.2023.
+//  Created by tami on 11.01.2023.
 //
 
 import UIKit
